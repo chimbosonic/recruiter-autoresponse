@@ -23,5 +23,6 @@ Thanks again for reaching out!
  
 I look forward to hearing from you.
 
-Alex
+Kind Regards,
+Alexis Lowe
 ```
